@@ -14,8 +14,8 @@ pip install tensorflow-gpu keras numpy
 ## usage
 
 ```
-python squad_train.py
-python squad_guess.py
+$ python squad_train.py
+$ python squad_guess.py
 > Who won superbowl 50?
 ...
 top answers:
